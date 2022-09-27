@@ -1,23 +1,9 @@
 ### Hi there 👋
 
-I'm Eva, a ✨ _sorceress of technological shenanigans_ ✨ and freelance software developer :)
+My name is Asuna, a legal and compliance nerd who knows ✨_Computers_✨
 
-- 🔭 I'm currently working on reverse engineering and reimplementing game servers at @KaeruTeam, where I lead development and overall management of the project.
-- 🌱 I'm currently learning C++ through 3DS homebrew development -- check out my work-in-progress game! https://github.com/thejsa/rhythm-run
+- 🔭 I'm currently researching different aspects of Web3 and the Blockchain
+- 💬 Ask me about different copyright laws, and how they affect your project!
 - ✨ My pronouns are she/her or they/them
-- 📫 You can reach me on Twitter as [@thejsa_](https://twitter.com/thejsa_) or get in touch on Discord via the [Kaeru Community guild](https://discord.kaeru.world) :tada:
+- 📫 You can reach me on Twitter as [@FlannelDipole](https://twitter.com/FlannelDipole)
 
-<!--
-**thejsa/thejsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
