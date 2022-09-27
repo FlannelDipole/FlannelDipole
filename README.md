@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Asuna, a legal and compliance nerd who knows ✨_Computers_✨
+My name is Asuna, a legal and compliance nerd who knows ✨*Computers* ✨
 
 - 🔭 I'm currently researching different aspects of Web3 and the Blockchain
 - 💬 Ask me about different copyright laws, and how they affect your project!
